@@ -2,3 +2,4 @@ A quick brown fox jumped over a lazy dog.
 The five boxing wizards jump quickly
 Add some frontend
 Added somemore frontend
+Added a stash
